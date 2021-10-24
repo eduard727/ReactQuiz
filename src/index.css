@@ -1,0 +1,66 @@
+
+
+h1{
+  margin: 10px;
+  text-align: center;
+  color: #f9fff2;
+}
+
+p{
+  font-size: 2vh;
+  max-width: 900px;
+  margin: 30px;
+  color: #f9fff2;
+}
+
+.infoPlant{
+  min-width: 200px;
+  border: 1px solid #f9fff2;
+  margin: 10px;
+  text-align: center;
+  background-color: #009F75;
+  border-radius: 15px;
+  box-shadow: 5px 5px 20px #02523dd7;
+}
+.infoPlantTwo{
+  border-radius: 15px;
+  background-color: #f9fff2;
+  vertical-align: bottom;
+}
+
+.infoApp{
+  background-color: #BFE8DC;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.img{
+  height: 200px;
+  margin: 10px;
+}
+.img:hover{
+  height: 210px;
+}
+
+.button{
+  font-size: 2rem;
+  height: 40px;
+  width: 60px;
+  color: #f9fff2;
+  background-color: #009F75;
+  border-radius: 15%;
+  border: 0px;
+  margin: 5px;
+}
+.button:hover{
+  color: #009F75;
+  background-color: #BFE8DC;
+  font-weight: bold;
+  
+}
+
+.counter{
+  color: #009F75;
+  font-weight: bolder;
+  font-size: 1rem;
+}
